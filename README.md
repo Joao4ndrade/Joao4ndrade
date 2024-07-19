@@ -1,7 +1,19 @@
 Olá! Eu sou João Andrade, estudante de Sistemas de Informação na Universidade de São Paulo
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao4ndrade&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao4ndrade&show_icons=true&theme=radical)
+<p align="left"> 
+  Olá! Eu sou João Andrade, estudante de Sistemas de Informação na Universidade de São Paulo <strong>Sua stack</strong>.<br>
+  Code, code, code!!.
+</p>
+
+<p align="left">
+  💻 Linguagens: **.NET C#, Java, JS.**
+</p>
+
+<p align="left">
+  💼 Work: **Atualmente atuando como Desenvolvedor de Software Fullstack na Zielo Tecnologia**
+</p>
+
   
   CONTATO: 
   
