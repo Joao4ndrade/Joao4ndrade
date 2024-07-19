@@ -1,4 +1,4 @@
-Olá! Eu sou João Andrade, estudante de Sistemas de Informação na Universidade de São Paulo
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
@@ -7,11 +7,11 @@ Olá! Eu sou João Andrade, estudante de Sistemas de Informação na Universidad
 </p>
 
 <p align="left">
-  💻 Linguagens: **.NET C#, Java, JS.**
+  💻 Linguagens: .NET C#, Java, JS, SQL.
 </p>
 
 <p align="left">
-  💼 Work: **Atualmente atuando como Desenvolvedor de Software Fullstack na Zielo Tecnologia**
+  💼 Work: Atualmente atuando como Desenvolvedor de Software Fullstack na Zielo Tecnologia.
 </p>
 
   
