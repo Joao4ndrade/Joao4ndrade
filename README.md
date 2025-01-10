@@ -17,7 +17,7 @@
   
   CONTATO: 
   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.andrade211@usp.br?subject=Olá&body=Olá, gostaria de entrar em contato!)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joao.andrade211@usp.br?)
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:joao.andrade211@hotmail.com?subject=Olá&body=Olá, gostaria de entrar em contato!)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-andrade-899062242/)
 <!---
